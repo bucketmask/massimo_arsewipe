@@ -1,3 +1,4 @@
-import code/data
+import data 
 
-data.
+print(data.characters.jessica.description)
+input
