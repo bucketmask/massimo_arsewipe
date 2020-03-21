@@ -1,4 +1,4 @@
 import data 
 
-print(data.characters.jessica.description)
-input
+for line in data.characters.jessica.description :
+    print(line)

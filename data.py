@@ -2,4 +2,4 @@ class characters :
     all_characters = []
     class jessica :
         name = "jessica"
-        description = open()
+        description = open("jessica_description.txt" , "r")
